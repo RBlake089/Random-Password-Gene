@@ -3,7 +3,7 @@
 # User Story
 
 
-#Technologies Used
+# Technologies Used
 - HTML 
 - CSS
 - JavaScript
