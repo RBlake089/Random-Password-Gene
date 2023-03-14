@@ -2,7 +2,7 @@
 
 # User Story
 
-User clicks "generate password button"to generate a random password. 
+User clicks generate button to generate a random password. 
 
 # Technologies Used
 - HTML 
