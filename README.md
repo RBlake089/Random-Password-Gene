@@ -1,3 +1,9 @@
-## Random Password Gene
+## Random Password Generator
 
-# This my attemt at making a random password Geneartor using JavaScript.
+# User Story
+
+
+#Technologies Used
+- HTML 
+- CSS
+- JavaScript
